@@ -1,5 +1,5 @@
 category:: [[SoftTech]]
-tags:: #Laravel #Route
+tags:: #Laravel
 
 - Controller files created in the `app/Http/Controllers` path.
 - Type `php artisan make:controller` to create a controller class.
@@ -20,4 +20,4 @@ tags:: #Laravel #Route
 	  	Route.delete("/jobs",'$FUNCTION_NAME');
 	  });
 	  ```
--
+- If a Controller class is passed to `Route::resource('$URI', '$CONTROLLER_CLASS')`, it will register all the [[Laravel Default Restful Actions]] automatically.

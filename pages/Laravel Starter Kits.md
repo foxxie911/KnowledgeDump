@@ -1,0 +1,2 @@
+- Meant to be used at the start of the new project
+-
