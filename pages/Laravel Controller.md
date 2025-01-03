@@ -1,5 +1,5 @@
 category:: [[SoftTech]]
-tags:: #Laravel
+tags:: #laravel
 
 - Controller files created in the `app/Http/Controllers` path.
 - Type `php artisan make:controller` to create a controller class.

@@ -1,5 +1,5 @@
 category::  [[SoftTech]]
-tags:: #Laravel #[[Restful API]]
+tags:: #laravel #rest_api
 
 - Laravel has its own default action names for an ideal [[Restful API]] functions.
 - Those action names are:
