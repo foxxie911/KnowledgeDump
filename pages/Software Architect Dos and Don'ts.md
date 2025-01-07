@@ -1,0 +1,9 @@
+- As an architect, it better for me and the team, not to work on a critical part of the project.
+	- I would have a lot of meetings to attends to
+	- I have other architectural responsibilities which will eat up my time.
+	- I would delay the development and the team.
+- I can build business side functionality up to two or three iteration.
+	- I will not block the team
+	- I can keep my development skills sharp
+	- I would be more aware of the business goal which will help me to make better architectural decisions.
+-

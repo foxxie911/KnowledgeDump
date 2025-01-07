@@ -1,0 +1,34 @@
+- Cohesion is the degree to which elements inside of a module relates with each other.
+	- It allows to determine if a class should be inside a particular module or the class needs to form a new module or the class should be in a different module.
+	- High Cohesion = Good (It means all the elements are related and focused on a single task)
+	- Low Cohesion = Bad (It means elements are not related and/or not focused on a single task)
+- A module is cohesive where all the necessary item resides inside the module.
+- There are range of Cohesion measures:
+  collapsed:: true
+	- Functional Cohesion
+	  collapsed:: true
+		- Everything needed is inside the module.
+	- Sequential Cohesion
+	  collapsed:: true
+		- Output of one module is input of another module.
+	- Communicational Cohesion
+	  collapsed:: true
+		- Two modules where they operates on the same information and/or generates some output.
+	- Procedural Cohesion
+	  collapsed:: true
+		- Modules need to be executed in a particular order.
+	- Temporal Cohesion
+	  collapsed:: true
+		- Modules are based on timing dependency
+	- Logical Cohesion
+	  collapsed:: true
+		- The data will within the modules are related logically but not functionally.
+	- Coincidental Cohesion
+	  collapsed:: true
+		- Elements are not co-related other than being on the same source file.
+- Lack of Cohesion of Methods (LCOM) metric
+	- Measures the structural cohesion of a module typically component.
+	- The sum of methods that do not access shared fields.
+	- LCOM low = Good cohesion (shared fields are accessed by the methods).
+	- LCOM high = Bad cohesion (shred fields are not accessed by the methods).
+	- Useful for architects who want to analyze the code base to move from one architecture to another.

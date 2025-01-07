@@ -1,0 +1,9 @@
+- Coupling refers to the degree of independence between two modules.
+	- High Coupling = Bad (Modules are closely connected and changing one module will have effect on the other module.)
+	- Low Coupling = Good (Changing one module will have little impact on the other module)
+- Metrics for coupling
+	- 1979, Edward Yourdon and Larry Constantine's Structured Design
+	- Afferent Coupling
+		- Number of incoming connection to a code artifact (component, class, function etc.)
+	- Efferent Coupling
+		- Number of outgoing connection to other code artifacts (components, class, function etc.)
