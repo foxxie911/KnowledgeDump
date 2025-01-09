@@ -1,4 +1,4 @@
-- Laravel has its own default action names for an ideal [[Restful API]] functions.
+- Laravel has its own default action names for an ideal Restful API functions.
 - Those action names are:
 	- index()
 	  logseq.order-list-type:: number

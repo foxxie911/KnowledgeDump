@@ -1,5 +1,4 @@
-category:: [[SoftTech]]
+technology:: PHP Framework
 
-- Laravel is a framework of PHP
 - [[Laravel Controller]]
 - [[Laravel Default Restful Actions]]

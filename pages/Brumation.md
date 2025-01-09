@@ -1,5 +1,4 @@
-category:: [[Misc.]]
-tags:: #reptile
+extra:: Reptile
 
 - This is a survival technique of reptiles.
 - Similar to hibernation of mammals like Bear.

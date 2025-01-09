@@ -1,4 +1,4 @@
-category:: [[SoftTech]]
+technology:: Career field
 
 - Every architectural decision is a trade-off.
 - There is no how, there is why

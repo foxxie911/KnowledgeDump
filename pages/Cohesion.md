@@ -28,6 +28,12 @@
 		- Elements are not co-related other than being on the same source file.
 - Lack of Cohesion of Methods (LCOM) #card
   id:: 677d3241-0714-402b-9d96-c25d3c1dd630
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2025-01-12T04:50:03.140Z
+  card-last-reviewed:: 2025-01-08T04:50:03.143Z
+  card-last-score:: 3
 	- Measures the structural cohesion of a module typically component.
 	- The sum of methods that do not access shared fields.
 	- LCOM low = Good cohesion (shared fields are accessed by the methods).

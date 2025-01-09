@@ -1,8 +1,5 @@
-category:: [[Misc.]]
-tags:: #mathematics
+extra:: Thinking pattern
 
--
--
 - ### Video
 	- {{video https://youtu.be/PRDVjm56Oj8}}
 - Start with simple questions.

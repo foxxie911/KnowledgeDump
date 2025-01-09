@@ -1,5 +1,3 @@
-category:: [[SoftTech]]
-
 - As a software architecture my main job will be making architectural decisions.
   logseq.order-list-type:: number
 - I would need to analyze the already established architectures to look for improvements

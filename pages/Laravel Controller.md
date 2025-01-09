@@ -1,6 +1,6 @@
 - Controller files created in the `app/Http/Controllers` path.
 - Type `php artisan make:controller` to create a controller class.
-- Every route functionality belonging to the same [[Entity]] usually written as the functions of one Controller class.
+- Every route functionality belonging to the same [[Entity usually written as the functions of one Controller class.
 - There is only one line of code in the `web.php` file for each controller function.
 	- ```php
 	  Route.get("/jobs", [App\Http\Controllers\JobController::class, '$FUNCTION_NAME']);
