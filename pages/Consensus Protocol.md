@@ -1,0 +1,38 @@
+- Consensus protocols are a set of rules or algorithms that enable a group of independent nodes (computers) in a distributed system to agree on a single data value or sequence of values
+- Consensus protocols are essential when nodes must cooperate to perform a task, such as updating a shared database or executing a transaction.
+- ### Common Consensus Protocols
+  collapsed:: true
+	- **Paxos**
+		- Developed by Leslie Lamport, designed to tolerate crash failures.
+		- It ensures safety (no incorrect decisions) but may sacrifice liveness (termination) in some conditions.
+		- Commonly used in systems like Google Chubby and other distributed databases.
+	- **Raft**
+		- An alternative to Paxos, Raft simplifies the consensus process by dividing responsibilities (leader election, log replication).
+		- Designed for crash-fault tolerance and is used in systems like HashiCorp Consul and etcd.
+	- **Two-Phase Commit (2PC)**
+		- Used in distributed databases to ensure atomic transactions.
+		- Requires all nodes to vote (commit or abort) before a transaction is finalized.
+		- Simple but not fault-tolerant—if the coordinator crashes, progress halts.
+	- **Three-Phase Commit (3PC)**
+		- An improvement over 2PC that introduces an extra phase to handle coordinator crashes.
+		- Adds more complexity but improves fault tolerance under certain conditions.
+	- **Byzantine Fault Tolerance (BFT)**
+		- A class of protocols designed to handle malicious nodes that may intentionally try to disrupt the system.
+		- Used in permissioned blockchain systems and other secure distributed systems.
+	- **Proof-of-Work (PoW)**
+		- Used in cryptocurrencies like Bitcoin
+		- Requires nodes to solve complex computational problems to validate transactions and add blocks to the blockchain.
+		- Energy-intensive but effective for open, decentralized systems.
+	- **Proof-of-Stake (PoS)**
+		- An energy-efficient alternative to PoW, used in systems like Ethereum 2.0.
+		- Nodes stake their cryptocurrency holdings to participate in consensus and validate transactions
+- ### Applications of Consensus Protocols
+  collapsed:: true
+	- Blockchain Technology
+		- Ensuring the integrity and security of transactions in cryptocurrencies and other blockchain-based applications.
+	- Distributed Databases
+		- Maintaining consistency and data integrity across multiple nodes.
+	- Cloud Computing
+		- Coordinating tasks and resource allocation in large-scale distributed systems.
+	- Fault-Tolerant Systems
+		- Building highly reliable systems that can withstand node failures.

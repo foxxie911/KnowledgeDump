@@ -1,0 +1,20 @@
+- Connascence of Name (CoN)
+	- Two elements must use the same name to work together.
+	- Example: A function call and its corresponding function definition.
+	- Low-risk and common in programming.
+- Connascence of Type (CoT)
+	- Two elements must agree on the type of data being exchanged.
+	- Example: A function expecting an integer but receiving a string violates this.
+	- Mitigation: Use static typing and type-checking tools.
+- Connascence of Meaning (CoM)
+	- Two elements rely on shared, implicit meanings.
+	- Example: A method returning -1 to signify "not found."
+	- Mitigation: Use explicit contracts or Enums.
+- Connascence of Position (CoP)
+	- The order of elements in a structure matters.
+	- Example: A function expecting arguments in a specific order.
+	- Mitigation: Use named parameters or objects.
+- Connascence of Algorithm (CoA)
+	- Two elements depend on the same algorithm.
+	- Example: A function and a client using the same hashing mechanism.
+	- Mitigation: Encapsulate shared algorithms in reusable modules.

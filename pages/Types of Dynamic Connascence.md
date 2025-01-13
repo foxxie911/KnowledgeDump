@@ -1,0 +1,15 @@
+- **Connascence of Execution (CoE)**
+	- Elements must execute in a particular sequence.
+	- Example: Initializing a database connection before querying it.
+	- Mitigation: Enforce order through [[Dependency Injection]] or [[State Management]] .
+- **Connascence of Timing (CoT)**
+	- Elements depend on the execution time
+	- Example: A race condition caused by two threads executing at the same time.
+- **Connascence of Value (CoV)**
+	- Elements depend on the time at which they execute.
+	- Example: A distributed system relying on synchronized clocks.
+	- Mitigation: Use logical clocks or [[Consensus Protocol]].
+- **Connascence of Identity (CoI)**
+	- Two elements rely on the identity of a specific entity.
+	- Example: Multiple modules sharing a reference to the same singleton.
+	- Mitigation: Decouple components through [[Dependency Injection]].

@@ -1,0 +1,14 @@
+- All the errors that java catches are descendants of Throwable class.
+- Throwable is divided into two sections
+	- Error
+		- Describes internal errors of Java Runtime system.
+		- There is nothing to do about it rather than letting the user know that something wrong has happened and close the program.
+	- Exception
+		- It further divided into two parts
+			- Runtime Exception
+				- Exceptions such a bad cast, null pointer array, index out of bounds are runtime exception
+				- These exceptions occurs because of bad code.
+				- Fixing code rather than handling these exception is the best thing to do while encounter one such exception.
+				- "If it is a RuntimeException, it is your fault works very well
+			- I/O Exception
+				-
