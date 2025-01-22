@@ -1,10 +1,12 @@
 - [Connascence](https://connascence.io/) is refining of Afferent and Efferent cohesion metrics which is focused towards Object-oriented programming.
 - History
-  collapsed:: true
 	- Found in 1996
 	- Meilir Page-Jones
 	- Book name "What every programmer should know about Object-Oriented Design"
-- > "Two components are in connascent if a change in one would require the other to be modified in order to maintain the overall correctness of the system." - Meilir Page-Jones
+
+> [!note]
+"Two components are in connascent if a change in one would require the other to be modified in order to maintain the overall correctness of the system." - Meilir Page-Jones
+
 - ### Types of connascence
 	- **Static** Connascent
 		- Refers to source-code level coupling.

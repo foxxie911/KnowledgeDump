@@ -1,6 +1,8 @@
-technology:: An object-oriented programming language
+---
+category: "[[Technology]]"
+---
 
 - [[Service Loader]]
 - [[Proxy Class]]
 - [[Java Error Handling]]
--
+- 

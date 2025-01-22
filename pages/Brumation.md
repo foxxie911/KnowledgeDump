@@ -1,4 +1,6 @@
-extra:: Reptile
+---
+category: "[[Extra]]"
+---
 
 - This is a survival technique of reptiles.
 - Similar to hibernation of mammals like Bear.

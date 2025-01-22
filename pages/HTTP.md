@@ -1,5 +1,6 @@
-technology:: Internet Protocol
-
+---
+category: "[[Technology]]"
+---
 - [[HTTP Message]]
 - [[HTTP Server Building]]
--
+- 

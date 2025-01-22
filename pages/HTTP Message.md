@@ -5,7 +5,7 @@
 			- HTTP method
 			- Request target
 			- HTTP version
-		- ![Parts of HTTP Status Line](../assets/image_1736335992739_0.png)
+![Parts of HTTP Status Line](../assets/image_1736335992739_0.png)
 	- Zero or more headers
 		- ![Parts of HTTP Header](../assets/image_1736336112425_0.png)
 	- Body (Not available in GET requests)

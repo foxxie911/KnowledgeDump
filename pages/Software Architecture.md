@@ -1,4 +1,8 @@
-technology:: Career field
+---
+category: "[[Technology]]"
+description:
+---
+
 
 - Every architectural decision is a trade-off.
 - There is no how, there is why
