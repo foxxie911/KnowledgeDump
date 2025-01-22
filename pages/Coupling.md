@@ -1,7 +1,9 @@
 - Coupling refers to the degree of independence between two modules.
 	- High Coupling = Bad (Modules are closely connected and changing one module will have effect on the other module.)
 	- Low Coupling = Good (Changing one module will have little impact on the other module)
-	- ![Relationship between coupling and cohesion](../assets/image_1736272142397_0.png)
+
+![Relationship between coupling and cohesion](../assets/image_1736272142397_0.png)
+
 - Metrics of coupling that has value for an architect
 	- 1979, Edward Yourdon and Larry Constantine's Structured Design
 	- Afferent Coupling

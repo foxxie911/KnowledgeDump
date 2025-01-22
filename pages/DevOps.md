@@ -1,4 +1,6 @@
-technology:: Software build proccess
+---
+category: "[[Technology]]"
+---
 
-- ![DevOps tools and frameworks](../assets/image_1736399382443_0.png)
--
+### Tools
+![DevOps tools and frameworks](../assets/DevOpsToolsAndFrameworks.gif)

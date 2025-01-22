@@ -4,7 +4,7 @@
 	- Meilir Page-Jones
 	- Book name "What every programmer should know about Object-Oriented Design"
 
-> [!note]
+> [!cite]
 "Two components are in connascent if a change in one would require the other to be modified in order to maintain the overall correctness of the system." - Meilir Page-Jones
 
 - ### Types of connascence

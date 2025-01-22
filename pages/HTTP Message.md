@@ -5,18 +5,17 @@
 			- HTTP method
 			- Request target
 			- HTTP version
+
 ![Parts of HTTP Status Line](../assets/image_1736335992739_0.png)
+
 	- Zero or more headers
-		- ![Parts of HTTP Header](../assets/image_1736336112425_0.png)
+
+![Parts of HTTP Header](../assets/image_1736336112425_0.png)
 	- Body (Not available in GET requests)
 - There are 2 types of HTTP Message
-	- Request Message
-	  logseq.order-list-type:: number
-		- Sent by the client.
-		  logseq.order-list-type:: number
-	- Response Message
-	  logseq.order-list-type:: number
+	1. Request Message
+		- Sent by the clients
+	2. Response Message
 		- Sent by the server.
-		  logseq.order-list-type:: number
-- ![Anatomy of HTTP Message](../assets/image_1736335156416_0.png)
+![Anatomy of HTTP Message](../assets/image_1736335156416_0.png)
 -
