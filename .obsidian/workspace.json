@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/DevOps.md",
+                "file": "pages/Java Error Handling.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DevOps"
+              "title": "Java Error Handling"
+            }
+          },
+          {
+            "id": "9529f4a75fc5ce89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Car Structure.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Car Structure"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,12 +192,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60e49c6e09c7d196",
+  "active": "9529f4a75fc5ce89",
   "lastOpenFiles": [
-    "assets/DevOpsToolsAndFrameworks.gif",
+    "pages/Java Error Handling.md",
+    "pages/Car Structure.md",
+    "pages/HTTP Server Building.md",
+    "pages/HTTP Message.md",
+    "pages/HTTP.md",
     "pages/DevOps.md",
-    "assets/DevOpsToolsAndFrameworks 1.gif",
     "pages/CRLF.md",
+    "pages/Brumation.md",
+    "assets/DevOpsToolsAndFrameworks.gif",
+    "assets/DevOpsToolsAndFrameworks 1.gif",
     "logseq/bak/pages/CRLF/2025-01-22T07_16_37.151Z.Desktop.md",
     "logseq/bak/pages/CRLF",
     "assets/image_1736335156416_0.png",
@@ -208,11 +230,6 @@
     "logseq/bak/pages/Consensus Protocol/2025-01-22T07_12_03.875Z.Desktop.md",
     "logseq/bak/pages/Consensus Protocol/2025-01-22T07_12_00.586Z.Desktop.md",
     "logseq/bak/pages/Consensus Protocol/2025-01-22T07_11_54.073Z.Desktop.md",
-    "logseq/bak/pages/Consensus Protocol/2025-01-22T07_11_48.500Z.Desktop.md",
-    "logseq/bak/pages/Consensus Protocol/2025-01-22T07_11_46.104Z.Desktop.md",
-    "logseq/bak/pages/Consensus Protocol/2025-01-22T07_11_43.240Z.Desktop.md",
-    "logseq/bak/pages/Consensus Protocol/2025-01-22T07_11_40.080Z.Desktop.md",
-    "logseq/bak/pages/Consensus Protocol/2025-01-22T07_11_36.225Z.Desktop.md",
     "logseq/bak/pages/Consensus Protocol",
     "logseq/bak/pages/Connascence",
     "logseq/bak/pages/Brumation",
