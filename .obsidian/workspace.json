@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Car Structure.md",
+                "file": "journals/2025_01_24.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Car Structure"
+              "title": "2025_01_24"
             }
           }
         ],
@@ -194,8 +194,15 @@
   },
   "active": "9529f4a75fc5ce89",
   "lastOpenFiles": [
-    "pages/Java Error Handling.md",
+    "journals/2025_01_12.md",
+    "journals/2025_01_24.md",
+    "journals/2025_01_06.md",
+    "journals/2025_01_01.md",
+    "journals/2025_01_02.md",
+    "journals/2025_01_03.md",
+    "journals/2025_01_04.md",
     "pages/Car Structure.md",
+    "pages/Java Error Handling.md",
     "pages/HTTP Server Building.md",
     "pages/HTTP Message.md",
     "pages/HTTP.md",
@@ -223,13 +230,6 @@
     "logseq/bak/pages/Consensus Protocol/2025-01-22T07_12_38.440Z.Desktop.md",
     "logseq/bak/pages/Consensus Protocol/2025-01-22T07_12_36.112Z.Desktop.md",
     "logseq/bak/pages/Consensus Protocol/2025-01-22T07_12_33.700Z.Desktop.md",
-    "logseq/bak/pages/Consensus Protocol/2025-01-22T07_12_31.151Z.Desktop.md",
-    "logseq/bak/pages/Consensus Protocol/2025-01-22T07_12_20.353Z.Desktop.md",
-    "logseq/bak/pages/Consensus Protocol/2025-01-22T07_12_11.765Z.Desktop.md",
-    "logseq/bak/pages/Consensus Protocol/2025-01-22T07_12_08.818Z.Desktop.md",
-    "logseq/bak/pages/Consensus Protocol/2025-01-22T07_12_03.875Z.Desktop.md",
-    "logseq/bak/pages/Consensus Protocol/2025-01-22T07_12_00.586Z.Desktop.md",
-    "logseq/bak/pages/Consensus Protocol/2025-01-22T07_11_54.073Z.Desktop.md",
     "logseq/bak/pages/Consensus Protocol",
     "logseq/bak/pages/Connascence",
     "logseq/bak/pages/Brumation",
