@@ -13,3 +13,5 @@ There are two types of P-E ration:
  1. **Forward Ratio**: Predicts future prediction depending on historic data.
  2. **Backward Ratio**: Calculates past performance.
 
+> [!note]
+> There is another type of P-E ratio that I have seen in Stock market called Weighted P-E ratio. Need further research on this topic.
