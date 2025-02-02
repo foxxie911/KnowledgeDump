@@ -3,5 +3,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "pages",
   "promptDelete": false,
-  "vimMode": true
+  "vimMode": true,
+  "attachmentFolderPath": "assets"
 }

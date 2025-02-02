@@ -7,6 +7,8 @@ P/E Ratio is **price-to-earning ratio**.  The price-to-earnings (P/E) ratio meas
 
 The P/E ratio is one of the most widely used by investors and analysts reviewing a stock's relative valuation. It helps to determine whether a stock is overvalued or undervalued.
 
+obsidian://open?vault=KnowledgeDump&file=assets%2FPasted%20image%2020250131190656.png
+
 Analysts and investors review a company's P/E ratio to determine if the share price accurately represents the projected earnings per share.
 
 There are two types of P-E ration:
