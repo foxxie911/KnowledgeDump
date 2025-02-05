@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Multithreading.md",
+                "file": "journals/2025_02_05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Multithreading"
+              "title": "2025_02_05"
             }
           }
         ],
@@ -195,8 +195,10 @@
   },
   "active": "e17cad1aea433199",
   "lastOpenFiles": [
-    "pages/Java Concurrency.md",
+    "journals/2025_02_04.md",
+    "journals/2025_02_05.md",
     "pages/Multithreading.md",
+    "pages/Java Concurrency.md",
     "pages/Java Cons.md",
     "pages/Java.md",
     "journals/2025_02_03.md",
@@ -226,8 +228,6 @@
     "P",
     "pages/PKI.md",
     "assets/DevOpsToolsAndFrameworks.gif",
-    "pages/HTTP Server Building.md",
-    "pages/Java Error Handling.md",
     "assets/DevOpsToolsAndFrameworks 1.gif",
     "logseq/bak/pages/CRLF",
     "assets/image_1736399382443_0.png",
