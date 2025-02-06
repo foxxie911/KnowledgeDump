@@ -24,3 +24,7 @@ Multi-threading comes with a cost. Multi-threading should be done only when the 
 1. More complex design
 2. Context Switching Overhead -> While switching from one thread to another, the CPU needs to save the local data, pointers, state of the current thread before executing another thread ( called Context Switch) which creates overhead.
 3. Increased Resource Consumption -> Each thread itself takes CPU resources and memory.
+
+### More
+1. [[Concurrency Models]]
+2. 
