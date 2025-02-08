@@ -27,4 +27,3 @@ Multi-threading comes with a cost. Multi-threading should be done only when the 
 
 ### More
 1. [[Concurrency Models]]
-2. 
