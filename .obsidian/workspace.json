@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Bit Manipulation.md",
+                "file": "journals/2025_02_09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bit Manipulation"
+              "title": "2025_02_09"
             }
           }
         ],
@@ -210,10 +210,11 @@
   },
   "active": "5b36619db70794bc",
   "lastOpenFiles": [
+    "pages/Bit Manipulation.md",
+    "journals/2025_02_09.md",
     "pages/Parallel Workers Model.md",
     "pages/Multithreading.md",
     "journals/2025_02_08.md",
-    "pages/Bit Manipulation.md",
     "pages/Java Concurrency.md",
     "pages/Concurrency Models.md",
     "pages/Functional Parallelism.md",
@@ -244,7 +245,6 @@
     "assets/Pasted image 20250205122621.png",
     "pages/Laravel Starter Kits.md",
     "pages/Mathematical Thinking.md",
-    "pages/Modularity.md",
     "assets/Pasted image 20250131190656.png",
     "assets/Pasted image 20250131190254.png",
     "P",
