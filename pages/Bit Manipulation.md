@@ -26,8 +26,17 @@ In bit operation takes one or more binary sequence and operates on them per bit.
 5. Left Shift `<<`
 6. Arithmetic/Signed Right Shift `>>` (Keeps the MSB value)
 7. Logical/unsigned Right Shift `>>>` (Replaces the MSB value with 0)
-# Bit Trciks
+# Bit Tricks
 ---
+- Set or flip or clear a bit
+	- `1 << x` -> Only x-th bit is set, changed from 0 to 1
+	- `~ ( 1 << x )` -> Every bit except x-th is set, changed from 0 to 1)
+	- `n | ( 1 << x )` -> Sets the x-th bit in the number n
+	- `n ^ ( 1 << x )` -> Flips the x-th bit in the number n
+	- `n & ~ ( 1 << x )` -> Clears the x-th bit in the number n
+- Check if a bit is set
+	- `(number >> x) & 1`
+- 
 - Check if the number is even
 	- `(x & 1) == 0`
 - Convert characters to Uppercase or Lowercase
