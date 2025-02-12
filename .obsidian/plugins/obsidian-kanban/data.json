@@ -1,0 +1,33 @@
+{
+  "tag-colors": [],
+  "date-format": "DD MMM YYYY",
+  "time-format": "hh:mm a",
+  "date-display-format": "DD MMM YYYY",
+  "archive-date-format": "DD MMM YYYY hh:mm a",
+  "date-picker-week-start": 6,
+  "show-checkboxes": true,
+  "date-colors": [
+    {
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "isToday": true,
+      "color": "rgba(0, 177, 56, 1)"
+    },
+    {
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "isAfter": true,
+      "color": "rgba(5, 24, 198, 1)"
+    },
+    {
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "isBefore": true,
+      "color": "rgba(231, 13, 13, 1)"
+    }
+  ],
+  "move-dates": true
+}

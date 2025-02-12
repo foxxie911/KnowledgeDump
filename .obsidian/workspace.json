@@ -4,56 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "b42b08a066d452dd",
+        "id": "51b1be4fb3462843",
         "type": "tabs",
         "children": [
           {
-            "id": "438053f0315679a0",
+            "id": "5d47d19fcd8e83b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "pages/Multithreading.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "kanban/Personal TODO.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Multithreading"
-            }
-          },
-          {
-            "id": "5ad12873b32f45d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2025_02_11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025_02_11"
-            }
-          },
-          {
-            "id": "5b36619db70794bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2025_02_09.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025_02_09"
+              "icon": "lucide-trello",
+              "title": "Personal TODO"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 343.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,19 +182,32 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5ad12873b32f45d2",
+  "active": "544e0e30d51de9e1",
   "lastOpenFiles": [
-    "pages/Bit Manipulation.md",
+    "excalidraw/Drawing 2025-02-11 14.06.47.excalidraw.md",
+    "kanban/Personal TODO.md",
+    "kanban",
+    "pages/Untitled Kanban.md",
+    "journals/24 Jan 2024.md",
+    "journals/06 Jan 2025.md",
+    "journals/04 Jan 2025.md",
+    "journals/03 Jan 2025.md",
+    "journals/02 Jan 2025.md",
+    "journals/01 Jan 2025.md",
+    "journals/2025_01_12.md",
+    "journals/2025_02_08.md",
     "journals/2025_02_11.md",
+    "pages/Untitled Kanban 1.md",
+    "pages/Bit Manipulation.md",
+    "pages/Multithreading.md",
     "pages/DevOps.md",
     "pages/Car Structure.md",
     "pages/Parallel Workers Model.md",
     "journals/2025_02_09.md",
-    "pages/Multithreading.md",
-    "journals/2025_02_08.md",
     "pages/Java Concurrency.md",
     "pages/Concurrency Models.md",
     "pages/Functional Parallelism.md",
@@ -225,23 +215,12 @@
     "pages/P-E Ratio.md",
     "pages/Software Architectural Definition.md",
     "pages/Software Architecture.md",
-    "pages/Software Architecture Metrics.md",
-    "pages/Software Architecture Responsibilities.md",
-    "pages/Types of Dynamic Connascence.md",
-    "pages/Types of Static Connascence.md",
-    "pages/Dockerfile commands.md",
     "assets/Pasted image 20250207222532.png",
     "assets/Pasted image 20250207221117.png",
     "assets/Pasted image 20250207215232.png",
     "assets/Pasted image 20250207213901.png",
     "assets/Pasted image 20250207213229.png",
-    "journals/2025_01_24.md",
-    "journals/2025_02_07.md",
-    "journals/2025_02_06.md",
-    "journals/2025_02_05.md",
-    "pages/Personal Data Collection Using In-app Advertizing Service.md",
     "assets/Pasted image 20250206184940.png",
-    "excalidraw/Drawing 2025-02-05 16.38.09.excalidraw.md",
     "excalidraw",
     "assets/Pasted image 20250205133808.png",
     "assets/Pasted image 20250205122621.png",
@@ -254,7 +233,6 @@
     "logseq/bak/pages/Connascence",
     "logseq/bak/pages/Brumation",
     "logseq/bak/pages/Modularity",
-    "logseq/bak/pages/Mathematical Thinking",
-    "logseq/bak/pages/Laravel Default Restful Actions"
+    "logseq/bak/pages/Mathematical Thinking"
   ]
 }

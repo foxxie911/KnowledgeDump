@@ -36,7 +36,7 @@ In bit operation takes one or more binary sequence and operates on them per bit.
 	- `n & ~ ( 1 << x )` -> Clears the x-th bit in the number n
 - Check if a bit is set
 	- `(number >> x) & 1`
-- 
+	- 1
 - Check if the number is even
 	- `(x & 1) == 0`
 - Convert characters to Uppercase or Lowercase

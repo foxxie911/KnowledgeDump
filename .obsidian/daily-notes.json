@@ -1,5 +1,5 @@
 {
-  "format": "YYYY_MM_DD",
+  "format": "DD MMM YYYY",
   "folder": "journals",
-  "autorun": true
+  "autorun": false
 }
